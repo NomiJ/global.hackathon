@@ -3,14 +3,15 @@
     "members": [
       {
         "name": "Nauman Qazi",
-        "koding": "nami",
+        "koding": "nomij",
         "location": "Islamabad, PK",
-        "lead": true
+        "coder": true
       },
       {
         "name": "Alex S.",
         "koding": "meowcoder",
         "location": "Novosibirsk, RU"
+        "lead": true
       }
     ]
 }
